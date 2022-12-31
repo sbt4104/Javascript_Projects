@@ -1,0 +1,26 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "pic1",
+      "posterPath": "www.google.com"
+    },
+    {
+      "id": 2,
+      "title": "pic2",
+      "posterPath": "www.google.com"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "2",
+      "title": "pic2",
+      "path": "www.google.com"
+    },
+    {
+      "id": "1",
+      "title": "pic1",
+      "path": "www.google.com"
+    }
+  ]
+}
